@@ -1,0 +1,15 @@
+// BG
+$main-bg: #1c2634; // Adjusted to a darker navy blue
+$soft-bg: #2a3447; // Slightly lighter than main-bg for contrast
+$dark-bg: #161d28; // Even darker for elements like headers or footers
+
+// TEXT
+$main-color: #ffffff; // Bright white for main text
+$soft-color: #a2a9b8; // Soft grey for less important text
+$dark-color: #1c2634; // Reused from main-bg for disabled or inactive text
+
+// ACCENTS - Assumed from the image, might need adjustment
+$accent-blue: #4a90e2; // Vibrant blue for key elements
+$accent-red: #ff5f5f; // Bright red for critical elements or warnings
+$accent-orange: #ff9c5f; // Orange for cautionary elements
+$accent-green: #7ed321; // Green for positive trends or confirmations
